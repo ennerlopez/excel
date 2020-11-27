@@ -108,6 +108,7 @@
     <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30005425" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected=".NET Project.ExcelLibrary">
@@ -175,7 +176,7 @@
       <option name="presentableId" value="Default" />
       <updated>1606241242022</updated>
       <workItem from="1606241247615" duration="10424000" />
-      <workItem from="1606407467864" duration="4986000" />
+      <workItem from="1606407467864" duration="5338000" />
     </task>
     <servers />
   </component>
